@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "392126538137",
+    "project_id": "gem-app-4bec5",
+    "storage_bucket": "gem-app-4bec5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392126538137:android:741075804d8bda413db308",
+        "android_client_info": {
+          "package_name": "com.flutterflow.fftrivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392126538137-qh9gm6rj8lluesd9s7157ohct9knbl1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwppT13JhYxtXsZRbhpuH5pshbtjHplWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392126538137-qh9gm6rj8lluesd9s7157ohct9knbl1e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "392126538137-ckesbegbnf7ibd7542a9j21fui92o9vh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.gem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392126538137:android:57f3158b3de8ec343db308",
+        "android_client_info": {
+          "package_name": "com.flutterflow.gem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392126538137-nvgm0i6mrtuhl1srmc2enp27sjggcchk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.gem",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "392126538137-qh9gm6rj8lluesd9s7157ohct9knbl1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwppT13JhYxtXsZRbhpuH5pshbtjHplWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392126538137-qh9gm6rj8lluesd9s7157ohct9knbl1e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "392126538137-ckesbegbnf7ibd7542a9j21fui92o9vh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.gem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
